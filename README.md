@@ -1,4 +1,4 @@
-- 👋 Hi everyone, I’m @ymarkos. Nice to e-present me.
+- 👋 Hi everyone, I’m Mrksyn. Nice to e-present me.
 - 👀 I’m I am a curious person by nature, who enjoys a life-long learning culture. 
   My mainly areas of interest are: enogastronomy, reading, writing, technology and foreign languages.
 - 🌱 I’m currently learning Python.
